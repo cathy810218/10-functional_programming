@@ -151,4 +151,4 @@ var app = app || {};
     return template(this);
   };
   module.articleView = articleView;
-)}(app);
+})(app);
